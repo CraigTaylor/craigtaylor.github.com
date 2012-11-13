@@ -1,0 +1,39 @@
+﻿* {
+	padding: 0px;
+	margin: 0px;
+	list-style-type: none;
+	font-family: 'Microsoft YaHei';
+	height: 100%;
+}
+body {
+	padding: 0px;
+	margin: 0px;
+	background-color: #808080;
+}
+.banner {
+	border: 0px;
+	width: auto;
+	height: 145px;
+	position: relative;
+	background-color: #000;
+	top: 50%;
+	margin-top: -72px;
+}
+.banner span {
+	position: absolute;
+	color: #fff;
+	top: 30px;
+	left: 300px;
+	width: 270px;
+	height: 45px;
+	font-size: 190%;
+	border-style: none;
+}
+.banner a {
+	position: absolute;
+	top: 85px;
+	left: 300px;
+	color: #0094ff;
+	border-style: none;
+	text-decoration: none;
+}
