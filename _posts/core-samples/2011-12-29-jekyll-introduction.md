@@ -1,21 +1,21 @@
----
+ï»¿---
 layout: post
 category : lessons
 tags : [intro, beginner, jekyll, tutorial]
 ---
 {% include JB/setup %}
 
-ºÃ°É£¬ÕâºÃÏñÊÇÎÒµÄËùÎ½µÄHello World ¼¶±ğÎÄÕÂ
+å¥½å§ï¼Œè¿™å¥½åƒæ˜¯æˆ‘çš„æ‰€è°“çš„Hello World çº§åˆ«æ–‡ç« 
 
-## Jekyll Óï·¨Æª
+## Jekyll è¯­æ³•ç¯‡
+æ£°?
+### æˆ‘å¯¹æ¯”å¾—å‡ºçš„è¯­æ³•
 
-### ÎÒ¶Ô±ÈµÃ³öµÄÓï·¨
+â€œ##â€å¥½åƒæ˜¯ä¸€çº§æ ‡é¢˜  â€œ###â€å¥½åƒæ˜¯äºŒçº§æ ‡é¢˜
 
-¡°##¡±ºÃÏñÊÇÒ»¼¶±êÌâ  ¡°###¡±ºÃÏñÊÇ¶ş¼¶±êÌâ
+### é“¾æ¥äº‹ä¾‹æ¥äº†
 
-### Á´½ÓÊÂÀıÀ´ÁË
-
-  Á´½ÓºÃÏñÊÇÕâÃ´ÓÃµÄ£º[±êÌâ](¶ÔÓ¦µÄÁ´½Ó)
+  é“¾æ¥å¥½åƒæ˜¯è¿™ä¹ˆç”¨çš„ï¼š[æ ‡é¢˜](å¯¹åº”çš„é“¾æ¥)
   Demo
   Code:"[baidu](http://www.baidu.com)"
 This website is created with Jekyll. [Other Jekyll websites](https://github.com/mojombo/jekyll/wiki/Sites).
