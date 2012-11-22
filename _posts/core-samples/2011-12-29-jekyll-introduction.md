@@ -5,18 +5,19 @@ tags : [intro, beginner, jekyll, tutorial]
 ---
 {% include JB/setup %}
 
-This Jekyll introduction will outline specifically  what Jekyll is and why you would want to use it.
-Directly following the intro we'll learn exactly _how_ Jekyll does what it does.
+好吧，这好像是我的所谓的Hello World 级别文章
 
-## Overview 
+## Jekyll 语法篇
 
-### What is Jekyll?
+### 我对比得出的语法
 
-Jekyll is a parsing engine bundled as a ruby gem used to build static websites from
-dynamic components such as templates, partials, liquid code, markdown, etc. Jekyll is known as "a simple, blog aware, static site generator".
+“##”好像是一级标题  “###”好像是二级标题
 
-### Examples
+### 链接事例来了
 
+  链接好像是这么用的：[标题](对应的链接)
+  Demo
+  Code:"[baidu](http://www.baidu.com)"
 This website is created with Jekyll. [Other Jekyll websites](https://github.com/mojombo/jekyll/wiki/Sites).
 
 
