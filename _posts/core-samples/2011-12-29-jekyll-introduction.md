@@ -8,7 +8,6 @@ tags : [intro, beginner, jekyll, tutorial]
 好吧，这好像是我的所谓的Hello World 级别文章
 
 ## Jekyll 语法篇
-棰?
 ### 我对比得出的语法
 
 “##”好像是一级标题  “###”好像是二级标题
@@ -19,8 +18,6 @@ tags : [intro, beginner, jekyll, tutorial]
   Demo
   Code:"[baidu](http://www.baidu.com)"
 This website is created with Jekyll. [Other Jekyll websites](https://github.com/mojombo/jekyll/wiki/Sites).
-
-
 
 ### What does Jekyll Do?
 
