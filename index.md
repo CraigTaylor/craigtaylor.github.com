@@ -1,9 +1,21 @@
 ---
 layout: page
-title: CraigTaylor.Me
-tagline: He's Taylor
+title: 小石头
+tagline: 亢奋的小二青
 ---
 {% include JB/setup %}
+
+## 最新文章
+
+<ul class="posts">
+  {% for post in site.posts %}
+    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
+
+## 鸣谢列表
+
+[Jekyll Bootstrap](http://github.com/plusjade/jekyll-bootstrap)
 
 ## 游客语录
 
@@ -21,17 +33,3 @@ var duoshuoQuery = {short_name:"craigtaylorme"};
 })();
 </script>
 <!-- Duoshuo Comment END -->
-
-## 最新文章
-
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
-
-## 鸣谢列表
-
-[Jekyll Bootstrap](http://github.com/plusjade/jekyll-bootstrap)
-
-
