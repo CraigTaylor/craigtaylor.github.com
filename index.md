@@ -15,7 +15,12 @@ tagline: 亢奋的小二青
 
 ## 鸣谢列表
 
-[Jekyll Bootstrap](http://github.com/plusjade/jekyll-bootstrap)
+- [静态框架](http://github.com/plusjade/jekyll-bootstrap)
+- [酷艺时光](http://www.kctime.com)
+- [湖工实验](http://www.hnielab.com)
+- [KCPlayer](http://www.kcplayer.com)
+- [哈工Hit9](http://hit9.org)
+- [XYDuDu's](http://www.xydudu.com)
 
 ## 游客语录
 
